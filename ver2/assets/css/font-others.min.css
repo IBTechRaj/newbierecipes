@@ -1,0 +1,57 @@
+@font-face{ 
+    font-family: 'Achafont';
+    src: url('Achafont.eot');
+    src: url('Achafont.eot?#iefix') format('embedded-opentype'),
+         url('Achafont.woff') format('woff'),
+         url('../fonts/Achafont.ttf') format('truetype'),
+         url('Achafont.svg#webfont') format('svg');
+         }
+
+@font-face{ 
+    font-family: 'cocacolaii';
+    src: url('Achafont.eot');
+    src: url('Achafont.eot?#iefix') format('embedded-opentype'),
+         url('Achafont.woff') format('woff'),
+         url('../../../fonts/cocacolaii.ttf') format('truetype'),
+         url('Achafont.svg#webfont') format('svg');
+         }
+@font-face{ 
+    font-family: 'OldeEuropeanES';
+    src: url('Achafont.eot');
+    src: url('Achafont.eot?#iefix') format('embedded-opentype'),
+         url('Achafont.woff') format('woff'),
+         url('../../../fonts/oldeEuropeanES.ttf') format('truetype'),
+         url('Achafont.svg#webfont') format('svg');
+         }
+@font-face{ 
+    font-family: 'spaceage';
+    src: url('Achafont.eot');
+    src: url('Achafont.eot?#iefix') format('embedded-opentype'),
+         url('Achafont.woff') format('woff'),
+         url('../../../fonts/spaceage.ttf') format('truetype'),
+         url('Achafont.svg#webfont') format('svg');
+         }
+@font-face{ 
+    font-family: 'CalligraphyFLF';
+    src: url('Achafont.eot');
+    src: url('Achafont.eot?#iefix') format('embedded-opentype'),
+         url('Achafont.woff') format('woff'),
+         url('../../../fonts/CalligraphyFLF.ttf') format('truetype'),
+         url('Achafont.svg#webfont') format('svg');
+         }
+@font-face{ 
+    font-family: 'Dejavuserif-bolditalic';
+    src: url('Achafont.eot');
+    src: url('Achafont.eot?#iefix') format('embedded-opentype'),
+         url('Achafont.woff') format('woff'),
+         url('../../../fonts/dejavuserif-bolditalic.ttf') format('truetype'),
+         url('Achafont.svg#webfont') format('svg');
+         }
+@font-face{ 
+    font-family: 'letmeride';
+    src: url('Achafont.eot');
+    src: url('Achafont.eot?#iefix') format('embedded-opentype'),
+         url('Achafont.woff') format('woff'),
+         url('../../../fonts/letmeride.ttf') format('truetype'),
+         url('Achafont.svg#webfont') format('svg');
+         }
