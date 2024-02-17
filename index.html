@@ -199,6 +199,28 @@
       </div><!-- row -->
     </div><!-- container -->
   </div>
+
+  <div>
+    <p>The number of visitors is : <span id="cntr">33260</span></p>
+  </div>
+  <script>
+    function counter_fn() {
+      var counter = document.getElementById("cntr")
+      var counterNumber = 0;
+      counterNumber = parseInt(counter.innerHTML);
+
+      if (localStorage.getItem("cnt")) {
+        counterNumber = parseInt(localStorage.getItem("cnt")) + 1
+        localStorage.setItem("cnt", counterNumber)
+      }
+      else {
+        localStorage.setItem("cnt", counterNumber)
+      }
+      counter.innerHTML = counterNumber;
+    }
+    window.onload = counter_fn;
+  </script>
+
   <! -- r wrap -->
 
 
